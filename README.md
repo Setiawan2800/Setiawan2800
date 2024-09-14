@@ -2,9 +2,9 @@
 
 Perkenalkan nama saya **Eka Setiawan**.<br>
 
-Saya seorang **Mahasiswa Teknik Informatika**<br>
+Saya **Mahasiswa Teknik Informatika**<br>
 
-Saya memulai tertarik di bidak IT semenjak saya masih SMA<br>
+Saya memulai tertarik di bidang IT semenjak saya masih SMA<br>
 
 Setelah lulus dari SMA saya memutuskan untuk kuliah mengambil prodi Teknik Informatika tepatnya pada tahun 2022<br>
 
